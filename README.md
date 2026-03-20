@@ -74,8 +74,9 @@ Após configuração do roteador:
 ---
 
 ## 📸 Topologia
+<img width="825" height="394" alt="Captura de tela 2026-03-20 125839" src="https://github.com/user-attachments/assets/dc4c2eaa-e281-46ce-b3cd-72877ed11179" />
 
-*(adicione aqui a imagem do seu projeto)*
+
 
 ---
 
