@@ -66,7 +66,7 @@ Após configuração do roteador:
 
 ---
 
-## 🧪 Testes Realizados
+## Testes Realizados
 
 * Ping entre dispositivos da mesma VLAN ✔
 * Ping entre VLANs diferentes ✔
