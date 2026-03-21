@@ -1,6 +1,6 @@
-# 🌐 Projeto de Rede com VLAN e Inter-VLAN Routing
+# Projeto de Rede com VLAN e Inter-VLAN Routing
 
-## 📌 Descrição
+## Descrição
 
 Este projeto simula uma rede corporativa utilizando VLANs para segmentação de rede e roteamento entre VLANs com a técnica **Router-on-a-Stick**.
 
@@ -8,7 +8,7 @@ A topologia foi desenvolvida no Cisco Packet Tracer, com o objetivo de demonstra
 
 ---
 
-## 🧱 Topologia da Rede
+## Topologia da Rede
 
 * 1 Roteador (R1)
 * 2 Switches (SW-CORE e SW-ACCESS)
@@ -17,7 +17,7 @@ A topologia foi desenvolvida no Cisco Packet Tracer, com o objetivo de demonstra
 
 ---
 
-## 🧩 Segmentação por VLAN
+## Segmentação por VLAN
 
 * **VLAN 10 - ADMINISTRATIVO**
 
@@ -29,7 +29,7 @@ A topologia foi desenvolvida no Cisco Packet Tracer, com o objetivo de demonstra
 
 ---
 
-## 🔗 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * VLAN (Virtual LAN)
 * Trunk 802.1Q
@@ -38,7 +38,7 @@ A topologia foi desenvolvida no Cisco Packet Tracer, com o objetivo de demonstra
 
 ---
 
-## ⚙️ Configurações Realizadas
+## Configurações Realizadas
 
 ### 🔹 Switches
 
@@ -54,7 +54,7 @@ A topologia foi desenvolvida no Cisco Packet Tracer, com o objetivo de demonstra
 
 ---
 
-## 🌐 Comunicação entre Redes
+## Comunicação entre Redes
 
 Antes do roteamento:
 
@@ -80,7 +80,7 @@ Após configuração do roteador:
 
 ---
 
-## 🚀 Objetivo do Projeto
+## Objetivo do Projeto
 
 * Praticar conceitos de redes
 * Entender segmentação com VLAN
@@ -89,12 +89,12 @@ Após configuração do roteador:
 
 ---
 
-## 📚 Autor
+## Autor
 
 Projeto desenvolvido por **Ariel Sousa**
 
 ---
 
-## 💡 Observações
+## Observações
 
 Este projeto foi desenvolvido para fins de aprendizado e prática em redes de computadores.
